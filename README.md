@@ -73,13 +73,13 @@
   <img src="https://img.shields.io/badge/AWS-4479A1?style=for-the-badge&logo=aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/GCP-FFCA28?style=for-the-badge&logo=gcp&logoColor=black" alt="Gcp" />
   <img src="https://img.shields.io/badge/AlICLOUD-DC382D?style=for-the-badge&logo=alicloud&logoColor=white" alt="Alicloud" />
-  <img src="https://img.shields.io/badge/AWS-4479A1?style=for-the-badge&logo=aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/AWS-4479A1?style=for-the-badge&logo=aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/DIGITAL OCEAN-4479A1?style=for-the-badge&logo=aws&logoColor=white" alt="DIGITAL OCEAN" />
+  <img src="https://img.shields.io/badge/Oracle-4479A1?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle cloud" />
 
 </div>
 ### Infrastructure as a code
 <div align="center">
-  <img src="https://img.shields.io/badge/ARGOCD-4479A1?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/TERRAFORM-4479A1?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   </div>
 ### CI/CD
 <div align="center">
