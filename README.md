@@ -90,9 +90,9 @@
 ### Tools & Platforms
 <div align="center">
   <img src="https://img.shields.io/badge/kubernetes-FF6C37?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" />
-  <img src="https://img.shields.io/badge/kubernetes-FF6C37?style=for-the-badge&logo=ecs&logoColor=white" alt="AWS ECS" />
-  <img src="https://img.shields.io/badge/kubernetes-FF6C37?style=for-the-badge&logo=elasticbeanstalk&logoColor=white" alt="AWS Elasticbeanstalk" />
-  <img src="https://img.shields.io/badge/kubernetes-FF6C37?style=for-the-badge&logo=lambda&logoColor=white" alt="AWS Lambda" />
+  <img src="https://img.shields.io/badge/AWS ECS-FF6C37?style=for-the-badge&logo=ecs&logoColor=white" alt="AWS ECS" />
+  <img src="https://img.shields.io/badge/AWS Elasticbeanstalk-FF6C37?style=for-the-badge&logo=elasticbeanstalk&logoColor=white" alt="AWS Elasticbeanstalk" />
+  <img src="https://img.shields.io/badge/AWS Lambda-FF6C37?style=for-the-badge&logo=lambda&logoColor=white" alt="AWS Lambda" />
 
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
