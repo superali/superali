@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Backend+Developer;API+%26+SRE+Specialist;Devops Engineer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Backend+Developer;SRE+Specialist;Devops Engineer" alt="Typing SVG">
   </a>
 </p>
 
@@ -50,13 +50,11 @@
 <div align="center">
   <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/WORDPRESS-02569B?style=for-the-badge&wordpress=flutter&logoColor=white" alt="Wordpress" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/DJANGO-0175C2?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Odoo-00ADD8?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
   <img src="https://img.shields.io/badge/NXTJS-02569B?style=for-the-badge&nextjs=flutter&logoColor=white" alt="Nextjs" />
   <img src="https://img.shields.io/badge/EXPRESSJS-02569B?style=for-the-badge&expressjs=flutter&logoColor=white" alt="Expressjs" />
   <img src="https://img.shields.io/badge/REACTJS-02569B?style=for-the-badge&reactjs=flutter&logoColor=white" alt="Reactjs" />
-  <img src="https://img.shields.io/badge/NUXTJS-02569B?style=for-the-badge&nuxtjs=flutter&logoColor=white" alt="Nuxtjs" />
 
 </div>
 ### Languages I use for scription and automation
@@ -79,15 +77,23 @@
   <img src="https://img.shields.io/badge/AWS-4479A1?style=for-the-badge&logo=aws&logoColor=white" alt="AWS" />
 
 </div>
+### Infrastructure as a code
+<div align="center">
+  <img src="https://img.shields.io/badge/ARGOCD-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Terraform" />
+  </div>
 ### CI/CD
 <div align="center">
-  <img src="https://img.shields.io/badge/ARGOCD-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/GITHUBACTION-FFCA28?style=for-the-badge&logo=postgresql&logoColor=black" alt="Postgresql" />
-  <img src="https://img.shields.io/badge/GITLABCI-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/ARGOCD-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Argocd" />
+  <img src="https://img.shields.io/badge/GITHUBACTION-FFCA28?style=for-the-badge&logo=postgresql&logoColor=black" alt="Github actions" />
+  <img src="https://img.shields.io/badge/GITLABCI-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Gitlab CI" />
 </div>
 ### Tools & Platforms
 <div align="center">
   <img src="https://img.shields.io/badge/kubernetes-FF6C37?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" />
+  <img src="https://img.shields.io/badge/kubernetes-FF6C37?style=for-the-badge&logo=kubernetes&logoColor=white" alt="AWS ECS" />
+  <img src="https://img.shields.io/badge/kubernetes-FF6C37?style=for-the-badge&logo=kubernetes&logoColor=white" alt="AWS Elasticbeanstalk" />
+  <img src="https://img.shields.io/badge/kubernetes-FF6C37?style=for-the-badge&logo=kubernetes&logoColor=white" alt="AWS Lambda" />
+
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/GITLAB-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
