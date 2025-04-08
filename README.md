@@ -79,20 +79,20 @@
 </div>
 ### Infrastructure as a code
 <div align="center">
-  <img src="https://img.shields.io/badge/ARGOCD-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/ARGOCD-4479A1?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   </div>
 ### CI/CD
 <div align="center">
-  <img src="https://img.shields.io/badge/ARGOCD-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Argocd" />
-  <img src="https://img.shields.io/badge/GITHUBACTION-FFCA28?style=for-the-badge&logo=postgresql&logoColor=black" alt="Github actions" />
-  <img src="https://img.shields.io/badge/GITLABCI-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Gitlab CI" />
+  <img src="https://img.shields.io/badge/ARGOCD-4479A1?style=for-the-badge&logo=argocd&logoColor=white" alt="Argocd" />
+  <img src="https://img.shields.io/badge/GITHUBACTION-FFCA28?style=for-the-badge&logo=github&logoColor=black" alt="Github actions" />
+  <img src="https://img.shields.io/badge/GITLABCI-DC382D?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab CI" />
 </div>
 ### Tools & Platforms
 <div align="center">
   <img src="https://img.shields.io/badge/kubernetes-FF6C37?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" />
-  <img src="https://img.shields.io/badge/kubernetes-FF6C37?style=for-the-badge&logo=kubernetes&logoColor=white" alt="AWS ECS" />
-  <img src="https://img.shields.io/badge/kubernetes-FF6C37?style=for-the-badge&logo=kubernetes&logoColor=white" alt="AWS Elasticbeanstalk" />
-  <img src="https://img.shields.io/badge/kubernetes-FF6C37?style=for-the-badge&logo=kubernetes&logoColor=white" alt="AWS Lambda" />
+  <img src="https://img.shields.io/badge/kubernetes-FF6C37?style=for-the-badge&logo=ecs&logoColor=white" alt="AWS ECS" />
+  <img src="https://img.shields.io/badge/kubernetes-FF6C37?style=for-the-badge&logo=elasticbeanstalk&logoColor=white" alt="AWS Elasticbeanstalk" />
+  <img src="https://img.shields.io/badge/kubernetes-FF6C37?style=for-the-badge&logo=lambda&logoColor=white" alt="AWS Lambda" />
 
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
